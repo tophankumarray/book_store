@@ -8,8 +8,8 @@
     ],
     "routes":[
         {
-            "src":"/books/(.*)",
-            "dest":"/books"
+            "src":"/(.*)",
+            "dest":"/"
         }
     ]
 }
